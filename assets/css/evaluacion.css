@@ -9,9 +9,12 @@ body{
 /* ==== Navbar ==== */
 .navbar-nav, .nav-link:hover{
 
-  color: #ffc75f;
+  color: #6b4b11;
+  
 
-}
+};
+
+
 
 /* ==== Header ==== */
 header{
@@ -23,6 +26,7 @@ header{
 header,h1{
 
   font-weight: bold !important;
+
 }
 
 /* ==== Artículos ==== */
@@ -35,9 +39,8 @@ article{
 /* ==== Títulos y subtítulos ==== */
 article, h2, article, h3{
 
-  color: #442c00;
   font-weight: bold;
-
+  color: #bb7a02;
 }
 
 /* ==== Labels ==== */
@@ -68,9 +71,14 @@ input.form-control{
 
 /* ==== Footer ==== */
 footer{
-  background-color: #212529;
+  background-color: #bb7a02;
   text-align: center;
   padding: 15px 0;
   margin-top: auto;
+  
+}
+
+.contenedor1{
+  background-color: #bb7a02;
   
 }
