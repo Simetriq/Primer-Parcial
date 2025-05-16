@@ -1,5 +1,5 @@
 /* ==== Estilo general ==== */
-body {
+body{
 
   font-family: "Segoe UI", sans-serif;
   background-color: #f8f9fa;
@@ -7,18 +7,20 @@ body {
 }
 
 /* ==== Navbar ==== */
-.navbar-nav, .nav-link:hover {
+.navbar-nav, .nav-link:hover{
+
   color: #ffc75f;
+
 }
 
 /* ==== Header ==== */
-header {
+header{
 
   background-color: #bb7a02;
 
 }
 
-header, h1{
+header,h1{
 
   font-weight: bold !important;
 }
